@@ -32,7 +32,4 @@ Contributions are welcome! To contribute to this project:
 
 Acknowledgments
 * Inspired by the design of Amazon's website.
-* Special thanks to online resources and design inspiration sources.
-
-Contact
-For any questions or feedback, you can reach me at mahatoprince61@gmail.com              
+* Special thanks to online resources and design inspiration sources.             
